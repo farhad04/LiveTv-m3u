@@ -15,3 +15,8 @@ https://tvsen5.aynaott.com/cartoonnetwork/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1,6. Gopal Bhar TV
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,7. Nick
+http://202.70.146.135:8000/play/a04c/index.m3u8
+#EXTINF:-1,8. Nickelodeon (1080p)
+
+http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
