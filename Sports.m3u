@@ -1,0 +1,58 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="TSN1" tvg-name="TSN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TSN.svg/512px-TSN.svg.png" group-title="Sports",TSN 1
+https://tvsen7.aynaott.com/tsn1/index.m3u8
+
+#EXTINF:-1 tvg-id="TSN2" tvg-name="TSN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TSN.svg/512px-TSN.svg.png" group-title="Sports",TSN 2
+https://tvsen7.aynaott.com/tsn2/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="TSN3" tvg-name="TSN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TSN.svg/512px-TSN.svg.png" group-title="Sports",TSN 3
+https://tvsen7.aynaott.com/tsn3/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="Sports",ESPN
+https://tvsen5.aynaott.com/espn/index.m3u8
+
+#EXTINF:-1 tvg-id="TENCRICKET" tvg-name="Ten Cricket" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Ten_Cricket_logo.png/512px-Ten_Cricket_logo.png" group-title="Sports",Ten Cricket
+https://edge2.roarzone.net:8447/roarzone/edge3/ten_cricket/index.m3u8?token=df932fc2e60d4fb1d364a2a6b773cf4c980179ca-4574ce2fc341b8a9a8209f559bd81ec9-1780067324-1780056524
+
+#EXTINF:-1 tvg-id="SONYTEN1" tvg-name="Sony Ten 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Sony_Sports_Ten_1.png/512px-Sony_Sports_Ten_1.png" group-title="Sports",Sony Ten 1
+https://edge2.roarzone.net:8447/roarzone/edge3/sony_sports_1_hd/index.m3u8?token=ffe1f15ed32da26e52b337f70d435732dd1403d6-7cb878fbc6c2bce310d934cd194e1d4a-1780068028-1780057228
+
+#EXTINF:-1 tvg-id="SONYTEN2" tvg-name="Sony Ten 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Sony_Sports_Ten_2.png/512px-Sony_Sports_Ten_2.png" group-title="Sports",Sony Ten 2
+https://edge2.roarzone.net:8447/roarzone/edge3/sony_sports_2_hd/index.m3u8?token=71686c6a8259f57254c8594fd20f48f0068508bf-0ca16535dec66ceaf6b613ef46bd9121-1780068090-1780057290
+
+#EXTINF:-1 tvg-id="SONYTEN5" tvg-name="Sony Ten 5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/Sony_Sports_Ten_5.png/512px-Sony_Sports_Ten_5.png" group-title="Sports",Sony Ten 5
+https://edge2.roarzone.net:8447/roarzone/edge3/sony_sports_5_hd/index.m3u8?token=8c9cad0a067b9e23787aae07f36c39c0e8569a25-7dabac20965bcdbb9e35b2c9c49ae0f1-1780068128-1780057328
+
+#EXTINF:-1 tvg-id="EUROSPORT" tvg-name="Euro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Eurosport_1.svg/512px-Eurosport_1.svg.png" group-title="Sports",Euro Sports
+https://edge2.roarzone.net:8447/roarzone/edge3/euro_sports_hd/index.m3u8?token=5b680d08227dc4767b6ae30648dedc2169fba4b6-5db69043526deed61475a1d28dd9e63f-1780068221-1780057421
+
+#EXTINF:-1 tvg-id="FIFAPLUS" tvg-name="FIFA Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/FIFA%2B_logo.svg/512px-FIFA%2B_logo.svg.png" group-title="Sports",FIFA Plus
+https://37b4c228.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/6f5437c5-e015-4754-8476-c8c6d27d3a55/1.m3u8
+
+#EXTINF:-1 tvg-id="WILLOW" tvg-name="Willow TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Willow_logo.png/512px-Willow_logo.png" group-title="Sports",Willow TV
+https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="TSPORTS" tvg-name="T Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/T_Sports_logo.png/512px-T_Sports_logo.png" group-title="Sports",T Sports HD
+https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="GOALTV" tvg-name="Goal TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Goal.com_logo.svg/512px-Goal.com_logo.svg.png" group-title="Sports",Goal TV HD
+https://streams2.sofast.tv/sofast/goaltv/goaltv_3500k.m3u8
+
+#EXTINF:-1 tvg-id="ASPORTS" tvg-name="ASports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/A_Sports_logo.png/512px-A_Sports_logo.png" group-title="Sports",ASports HD
+https://tvsen6.aynaott.com/asports/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="SPORTSGRID" tvg-name="Sports Grid" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/SportsGrid_logo.png/512px-SportsGrid_logo.png" group-title="Sports",Sports Grid
+https://tvsen6.aynaott.com/SportsGrid/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="STARSPORTS1" tvg-name="Star Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Star_Sports_1_logo.png/512px-Star_Sports_1_logo.png" group-title="Sports",Star Sports 1
+https://tvsen7.aynaott.com/sspts1/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="BEINSPORTS" tvg-name="Bein Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BeIN_Sports_logo.svg/512px-BeIN_Sports_logo.svg.png" group-title="Sports",Bein Sports
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+
+#EXTINF:-1 tvg-id="SONYMAX" tvg-name="Sony Max" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Sony_MAX_logo.png/512px-Sony_MAX_logo.png" group-title="Entertainment",Sony Max
+https://ashtv.com.bd/server/channels/sony_max.m3u8
+
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Discovery_Channel_logo.svg/512px-Discovery_Channel_logo.svg.png" group-title="Documentary",Discovery
+https://ottbanglaplatform.com/tv/toffee/live.php?id=discovery_sd&e=.m3u8
